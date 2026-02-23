@@ -94,4 +94,4 @@ npm run build && npm run start
 
 ---
 
-*Desenvolvido com precisão exata por [Leonardo Firme](https://github.com/LeonardoFirme).*
+*Desenvolvido por [Leonardo Firme](https://github.com/LeonardoFirme).*
