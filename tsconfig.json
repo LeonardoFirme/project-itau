@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "src/components/import { BenefitsSection } from \"@/components/\";"  ],
   "exclude": ["node_modules"]
 }
