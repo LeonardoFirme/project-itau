@@ -10,6 +10,8 @@ Este projeto foi desenvolvido estritamente para **fins educacionais e de portfó
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+![Demonstração do Template](./template.png)
+
 Replicação fiel da interface do portal Itaú, utilizando os padrões mais recentes do mercado React. O projeto foca em um layout minimalista, responsividade total e suporte nativo ao modo escuro (`dark:` mode).
 
 ## 🚀 Funcionalidades e Diferenciais
